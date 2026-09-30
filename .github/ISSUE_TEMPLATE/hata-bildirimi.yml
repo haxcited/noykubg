@@ -5,7 +5,11 @@ body:
   - type: markdown
     attributes:
       value: |
+        **Hile ya da istismar bulduysan buraya yazma, info@noyku.com'a gönder.**
+
         Bu sayfa herkese açık. E-posta, telefon, satın alma makbuzu gibi kişisel bilgileri yazma. Hesap ya da satın alma sorunu için: info@noyku.com
+
+        **Found a cheat or exploit? Don't post it here, email info@noyku.com instead.**
 
         This page is public. Please don't post personal information. For account or purchase problems: info@noyku.com
   - type: textarea
