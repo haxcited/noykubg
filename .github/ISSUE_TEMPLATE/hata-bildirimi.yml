@@ -1,0 +1,56 @@
+name: Hata bildirimi / Bug report
+description: Oyunda bir şey bozuk mu? / Something broken in the game?
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Bu sayfa herkese açık. E-posta, telefon, satın alma makbuzu gibi kişisel bilgileri yazma. Hesap ya da satın alma sorunu için: info@noyku.com
+
+        This page is public. Please don't post personal information. For account or purchase problems: info@noyku.com
+  - type: textarea
+    id: ne-oldu
+    attributes:
+      label: Ne oldu? / What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: adimlar
+    attributes:
+      label: Nasıl tekrar edebilirim? / How can I reproduce it?
+      placeholder: |
+        1.
+        2.
+        3.
+  - type: textarea
+    id: beklenen
+    attributes:
+      label: Ne olmasını bekliyordun? / What did you expect?
+  - type: input
+    id: surum
+    attributes:
+      label: Uygulama sürümü / App version
+      description: Ayarlar ekranının en altında yazar. / Shown at the bottom of Settings.
+      placeholder: "1.0 (42)"
+  - type: input
+    id: cihaz
+    attributes:
+      label: Cihaz / Device
+      placeholder: "iPhone 13"
+  - type: input
+    id: ios
+    attributes:
+      label: iOS sürümü / iOS version
+      placeholder: "iOS 26.0"
+  - type: textarea
+    id: ekran
+    attributes:
+      label: Ekran görüntüsü veya video / Screenshot or video
+      description: Dosyayı bu alana sürükleyebilirsin. / Drag files into this box.
+  - type: checkboxes
+    id: gizlilik
+    attributes:
+      label: Gizlilik / Privacy
+      options:
+        - label: Kişisel bilgi paylaşmadım. / I did not share personal information.
+          required: true

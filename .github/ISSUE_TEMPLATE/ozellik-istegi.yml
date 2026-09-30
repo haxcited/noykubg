@@ -1,0 +1,27 @@
+name: Özellik isteği / Feature request
+description: Oyunda görmek istediğin bir şey mi var? / Something you'd like to see in the game?
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Önce açık isteklere bir göz at; aynısı varsa altına +1 bırakman yeterli. İstediğin özellik oyuna girerse sürüm notunda seni de anarım.
+
+        Check the open requests first; if yours is already there, a +1 reaction is enough. If your idea ships, you'll be credited in the release notes.
+  - type: textarea
+    id: istek
+    attributes:
+      label: Ne istiyorsun? / What would you like?
+    validations:
+      required: true
+  - type: textarea
+    id: neden
+    attributes:
+      label: Hangi durumda işine yarar? / When would it help you?
+  - type: checkboxes
+    id: gizlilik
+    attributes:
+      label: Gizlilik / Privacy
+      options:
+        - label: Kişisel bilgi paylaşmadım. / I did not share personal information.
+          required: true
