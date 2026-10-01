@@ -1,7 +1,5 @@
 blank_issues_enabled: false
-# Enable once the permanent Discord invite exists; a broken URL here
-# breaks the whole template chooser.
-# contact_links:
-#   - name: Discord
-#     url: DOLDUR_DISCORD_DAVETI
-#     about: Soru sor, sohbet et / Questions and chat
+contact_links:
+  - name: Discord
+    url: https://discord.gg/PDmBp5AtgZ
+    about: Soru sor, sohbet et / Questions and chat

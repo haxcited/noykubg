@@ -2,7 +2,7 @@
 
 iPhone için online tavla. Hızlı maça gir ya da arkadaşlarınla masa kur.
 
-[App Store'dan indir](DOLDUR_APP_STORE_LINKI)
+App Store linki yayınla birlikte burada olacak.
 
 ## Destek
 
@@ -11,7 +11,7 @@ iPhone için online tavla. Hızlı maça gir ya da arkadaşlarınla masa kur.
   Discord hesabı gerekmez.
 - **Hata bildir:** [Hata kaydı aç](../../issues/new?template=hata-bildirimi.yml)
 - **Özellik iste:** [İstek aç](../../issues/new?template=ozellik-istegi.yml)
-- **Soru sor, sohbet et:** [Discord](DOLDUR_DISCORD_DAVETI)
+- **Soru sor, sohbet et:** [Discord](https://discord.gg/PDmBp5AtgZ)
 
 ## Kim yapıyor?
 
@@ -27,11 +27,10 @@ Onur
 
 | Nerede | Ne var |
 |---|---|
-| [Discord](DOLDUR_DISCORD_DAVETI) | Topluluk, sorular, beta testleri, özellik oylamaları |
-| [TikTok](DOLDUR_TIKTOK) | Maç anları, günün pozisyonu |
-| [Instagram](DOLDUR_INSTAGRAM) | Maç anları, tahta ve zar tasarımları |
-| [X](DOLDUR_X) | Geliştirme günlüğü, sürüm haberleri |
-| [Facebook](DOLDUR_FACEBOOK) | Duyurular |
+| [Discord](https://discord.gg/PDmBp5AtgZ) | Topluluk, sorular, beta testleri, özellik oylamaları |
+| [TikTok](https://www.tiktok.com/@onuryzx) | Maç anları, günün pozisyonu |
+| [Instagram](https://www.instagram.com/yukrukcanonur) | Maç anları, tahta ve zar tasarımları |
+| [X](https://x.com/haxcited) | Geliştirme günlüğü, sürüm haberleri |
 
 ## Kayıt açmadan önce
 
@@ -52,7 +51,7 @@ Noyku Tavla is online backgammon for iPhone, built by one developer.
   account, purchase, deletion and data requests go here)
 - **Bugs:** [open a bug report](../../issues/new?template=hata-bildirimi.yml)
 - **Ideas:** [request a feature](../../issues/new?template=ozellik-istegi.yml)
-- **Community:** [Discord](DOLDUR_DISCORD_DAVETI)
+- **Community:** [Discord](https://discord.gg/PDmBp5AtgZ)
 
 Issues are public, so please don't post personal information. Security
 reports go through [SECURITY.md](SECURITY.md).
